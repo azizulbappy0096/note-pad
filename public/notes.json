@@ -1,0 +1,17 @@
+[
+    {
+        "title": "javaScript",
+        "note": "+AJAX\n+React.js",
+        "author": "Azizul Bappy"
+    },
+    {
+        "title": "Scrimba",
+        "note": "-React.js basic",
+        "author":"Azizul Bappy"
+    },
+    {
+        "title": "javaScript",
+        "note": "+AJAX Request\n+Node.js",
+        "author": "ai"
+    }
+]

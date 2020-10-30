@@ -1,0 +1,29 @@
+.note-list {
+    
+}
+
+.tags {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: rgba(19, 19, 218, 0.712);
+    cursor: pointer;
+    padding: 0 10px;
+    border-bottom: 0.5px solid rgba(128, 128, 128, 0.671);
+}
+
+.note {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.note:hover {
+    background-color: rgba(128, 128, 128, 0.445);
+}
+
+.note p {
+    width: 100%;
+    overflow: hidden;
+    max-height: 25px;
+    color: grey;
+}

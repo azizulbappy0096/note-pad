@@ -1,0 +1,23 @@
+.editor-settings {
+    padding: 15px;
+    display: flex;
+    border-bottom: 0.5px solid rgb(190, 179, 179);
+}
+
+.settings {
+    flex-grow: 1;
+}
+
+.settings i {
+    font-size: 18px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+.user {
+    display: flex;
+    align-items: baseline;
+}
+.user i {
+    cursor: pointer;
+}

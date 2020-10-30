@@ -1,0 +1,37 @@
+.editor {
+    
+}
+
+.add-tag {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.5px solid rgba(128, 128, 128, 0.671);
+    padding: 0 10px;
+}
+
+.add-tag input {
+    border: none;
+    flex-grow: 1;
+    padding: 0 20px;
+}
+
+.add-tag input:focus {
+    outline: none;
+}
+
+.text-area {
+    margin: 10px;
+}
+
+.text-area textarea {
+    padding: 10px;
+    width: 100%;
+    min-height: 500px;
+    max-height: 1000px;
+    border: none;
+    font-size: 14px;
+}
+
+textarea:focus {
+    outline: none;
+}
